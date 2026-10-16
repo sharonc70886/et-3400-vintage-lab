@@ -11,3 +11,4 @@ build/
 coverage/
 .pytest_cache/
 tmp/
+*.orig
